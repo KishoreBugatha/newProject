@@ -22,10 +22,7 @@ System.out.println("Enter a number : ");
 Scanner sc=new Scanner(System.in);
 int n=sc.nextInt();
 System.out.println(prime(n));
-<<<<<<< HEAD
 System.out.println("Jai Jagannath");
-=======
 System.out.println("This is a prime number program");
->>>>>>> main
 }
 }
