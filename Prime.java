@@ -21,5 +21,6 @@ System.out.println("Enter a number : ");
 Scanner sc=new Scanner(System.in);
 int n=sc.nextInt();
 System.out.println(prime(n));
+System.out.println("Jai Jagannath");
 }
 }
